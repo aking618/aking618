@@ -23,12 +23,9 @@
 ### I'm 20 years old Self-taught Movbile Developer that is currently attending college for Computer Science in the United States.
 
 
-#### -  📱 Learning Flutter and Dart <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> / <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>.
+#### - 📱 Learning Flutter and Dart <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> / <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-
-
-
-#### - 🎮 Competitive Super Smash Bros. Ultimate Player, 
+#### - 🎮 Competitive Super Smash Bros. Ultimate Player
 
 #### - 🎺 College Trombonist
 
