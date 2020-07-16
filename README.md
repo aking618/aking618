@@ -20,7 +20,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 20 years old Self-taught Movbile Developer that is currently attending college for Computer Science in the United States.
+### I'm 20 years old Self-taught Mobile Developer that is currently attending college for Computer Science in the United States.
 
 
 #### - 📱 Learning Flutter and Dart 
