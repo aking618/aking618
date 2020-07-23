@@ -29,15 +29,19 @@
 
 #### - 🎺 College Trombonist
 
-#### - 💬 Connect? Here 👉🏼 Ashsquads@gmail.com
+#### - 💬 Contact Here <a href="Ashsquads@gmail.com">
+  <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail.png" />
 
 
 <br />
 
 
-**I am Into , 🙏**
+#### I am Into:
 
-**Mobile Development, Web Development, Java, Music, and E-sports**
+#### - Mobile Development
+#### - Web Development
+#### - Music
+#### - E-sports
 <br />
 
 
