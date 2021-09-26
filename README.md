@@ -1,4 +1,4 @@
-### Hi newcomer, I'm Ayren 👋.
+### Hi newcomer, I'm Ayren 👋.  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/pronouns/hehim.png?raw=true" alt="he/him" style="vertical-align:top; margin:4px">
 
 
 <br/>
@@ -65,11 +65,12 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">      
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png?raw=true" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-<!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/csharp.png" alt="csharp" style="vertical-align:top; margin:4px">  -->
-
+<img src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png?raw=true" alt="csharp" style="veritcal-align:top; margin:4px">
+<img src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/php.png?raw=true" alt="php" style="veritcal-align:top; margin:4px">
+  <img src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png?raw=true" alt="react" style="veritcal-align:top; margin:4px">
+  <img src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/unity.png?raw=true" alt="unity" style="veritcal-align:top; margin:4px">
 
 </p>
 
