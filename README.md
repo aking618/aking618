@@ -6,7 +6,7 @@
   <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/instagram.png" />
   <a href="https://www.snapchat.com/add/ayrock618">
   <img align="left" alt="Snapchat" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/snapchat.png" />
-   <a href="https://www.twitch.tv/awesome8800">
+   <a href="https://www.twitch.tv/nebula618">
   <img align="left" alt="Twitch" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/twitch.png" />
    <a href="https://stackoverflow.com/users/13430888/ayrock618">
   <img align="left" alt="Stack Overflow" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/stackoverflow.png" />
@@ -20,16 +20,16 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 20 years old Self-taught Mobile Developer that is currently attending college for Computer Science in the United States.
+### I'm 21 years old Software Developer that is currently attending college for Computer Science in the United States.
 
 
-#### - 📱 Learning Flutter and Dart 
+#### - 📱 Flutter and Dart Fanatic 
 
 #### - 🎮 Competitive Super Smash Bros. Ultimate Player
 
 #### - 🎺 College Trombonist
 
-#### - 💬 Contact Here <a href="Ashsquads@gmail.com">
+#### - 💬 Contact Here <a href="Aking.college@gmail.com">
   <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail.png" />
 
 
@@ -68,6 +68,7 @@
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">      
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/csharp.png" alt="csharp" style="vertical-align:top; margin:4px">  -->
 
 
 </p>
