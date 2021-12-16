@@ -3,8 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Typescript with Firebase / Tailwind CSS)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
-<li>:us: From Stillwater, Oklahoma, USA</li>
+<li>:octocat: From Stillwater, Oklahoma, USA</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's get started!</li>
 </ul>
