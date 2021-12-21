@@ -34,6 +34,7 @@
 
 <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=#F7DF1E" alt="typescript"/></a>
 
 <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="javascript"/></a>
 <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/react_router-white.svg?style=for-the-badge&logo=react-router&logoColor=%2361DAFB" alt="javascript"/></a>
