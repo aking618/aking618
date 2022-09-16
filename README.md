@@ -1,9 +1,9 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Ayren King<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web and mobile developer, flutter, react, and all the technology behind it...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web and mobile developer, flutter, iOS, react, and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Typescript with Firebase / Tailwind CSS)</li>
-<li>:octocat: From Stillwater, Oklahoma, USA</li>
+<li>:seedling: I'm in constant learning (currently working with iOS)</li>
+<li>:octocat: From Oklahoma City, Oklahoma, USA</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:metal: Let's get started!</li>
 </ul>
