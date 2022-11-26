@@ -53,6 +53,7 @@
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=firebase" alt="mariadb"/></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red" alt="mysqlserver"/></a>
 
 
 <h3>Version Control & CI/CD</h3>
