@@ -1,19 +1,19 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Ayren King<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">iOS Developer @Phillips</h3>
+<h1 align="center">Hi, I'm Ayren King <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30"></h1>
+<h3 align="center">Senior iOS Engineer @ Phillips</h3>
 
-<ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently working with iOS)</li>
-<li>:octocat: From Oklahoma City, Oklahoma, USA</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-<li>:metal: Let's get started!</li>
-</ul>
+- :seedling: Building the Phillips auction app for iOS with SwiftUI and TCA
+- :octocat: From Oklahoma City, Oklahoma, USA
+- :metal: Let's get started!
+
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 
+[![Website][website-shield]][website-url]
 [![GH-Aking618][GH-Aking618]][GH-Aking618-url]
 [![linkedin-shield][linkedin-shield]][linkedin-url]
+[![medium-shield][medium-shield]][medium-url]
 [![instagram-shield][instagram-shield]][instagram-url]
-[![twitter-shield][twitter-shield]][twitter-url]
+[![x-shield][x-shield]][x-url]
 [![email-shield][email-shield]][email-url]
 
 <br/><br/>
@@ -29,7 +29,6 @@
 <h3>Languages</h3>
 
 [![Swift][Swift]][Swift-url]
-[![PHP][PHP]][PHP-url]
 [![Javascript][Javascript]][Javascript-url]
 [![Typescript][Typescript]][Typescript-url]
 [![YAML][YAML]][YAML-url]
@@ -40,8 +39,11 @@
 
 [![SwiftUI][SwiftUI]][SwiftUI-url]
 [![UIKit][UIKit]][UIKit-url]
+[![TCA][TCA]][TCA-url]
+[![SwiftData][SwiftData]][SwiftData-url]
+[![SwiftTesting][SwiftTesting]][SwiftTesting-url]
 [![WebKit][WebKit]][WebKit-url]
-[![WidgtKit][WidgtKit]][WidgtKit-url]
+[![WidgetKit][WidgetKit]][WidgetKit-url]
 [![ActivityKit][ActivityKit]][ActivityKit-url]
 [![CoreLocation][CoreLocation]][CoreLocation-url]
 
@@ -52,29 +54,20 @@
 <h3>Tools</h3>
 
 [![Xcode][Xcode]][Xcode-url]
+[![Tuist][Tuist]][Tuist-url]
 [![XcodeGen][XcodeGen]][XcodeGen-url]
+[![Fastlane][Fastlane]][Fastlane-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
-[![GitLab][GitLab]][GitLab-url]
-[![Bitbucket][Bitbucket]][Bitbucket-url]
-[![AndroidStudio][AndroidStudio]][AndroidStudio-url]
-[![Fastlane][Fastlane]][Fastlane-url]
 
 </div>
 
 ---
 
 <div align="center">
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-<div style="display: flex; align-items: center; justify-content: center;">
+<h2>GitHub Statistics :chart_with_upwards_trend:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=aking618&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aking618)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aking618&theme=tokyonight&hide_border=true)](https://github.com/aking618)
-
-</div>
-</div>
-
-<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=aking618&style=flat-square)
 
@@ -85,17 +78,23 @@
 
 <!-- Top Links -->
 
+[website-shield]: https://img.shields.io/badge/ayrenking.dev-black?style=for-the-badge&logo=safari&colorB=555
+[website-url]: https://ayrenking.dev
+
 [GH-Aking618]: https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&colorB=555
 [GH-Aking618-url]: https://github.com/aking618
 
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-12345?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/ayren-king
+
+[medium-shield]: https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&colorB=555
+[medium-url]: https://medium.com/@ayrenking
 
 [instagram-shield]: https://img.shields.io/badge/instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [instagram-url]: https://www.instagram.com/a_king618
 
-[twitter-shield]: https://img.shields.io/badge/twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/AyrenKing1
+[x-shield]: https://img.shields.io/badge/x-black.svg?style=for-the-badge&logo=x&colorB=555
+[x-url]: https://x.com/AyrenKing1
 
 [email-shield]: https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&colorB=555
 [email-url]: mailto:ayrenking.dev@gmail.com
@@ -106,10 +105,7 @@
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 [Typescript]: https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white
-[Typescript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-[PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-[PHP-url]: https://php.net/
+[Typescript-url]: https://www.typescriptlang.org/
 
 [Swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
 [Swift-url]: https://swift.org/
@@ -119,49 +115,52 @@
 
 <!-- Frameworks -->
 
-[UIKit]: https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[UIKit-url]: https://developer.apple.com/xcode/swiftui/
-
 [SwiftUI]: https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
 
-[WebKit]: https://img.shields.io/badge/WebKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[WebKit-url]: https://developer.apple.com/xcode/swiftui/
+[UIKit]: https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[UIKit-url]: https://developer.apple.com/documentation/uikit
 
-[WidgtKit]: https://img.shields.io/badge/WidgtKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[WidgtKit-url]: https://developer.apple.com/xcode/swiftui/
+[TCA]: https://img.shields.io/badge/TCA-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[TCA-url]: https://github.com/pointfreeco/swift-composable-architecture
+
+[SwiftData]: https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[SwiftData-url]: https://developer.apple.com/documentation/swiftdata
+
+[SwiftTesting]: https://img.shields.io/badge/Swift_Testing-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[SwiftTesting-url]: https://developer.apple.com/xcode/swift-testing/
+
+[WebKit]: https://img.shields.io/badge/WebKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[WebKit-url]: https://developer.apple.com/documentation/webkit
+
+[WidgetKit]: https://img.shields.io/badge/WidgetKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
+[WidgetKit-url]: https://developer.apple.com/documentation/widgetkit
 
 [ActivityKit]: https://img.shields.io/badge/ActivityKit-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[ActivityKit-url]: https://developer.apple.com/xcode/swiftui/
+[ActivityKit-url]: https://developer.apple.com/documentation/activitykit
 
 [CoreLocation]: https://img.shields.io/badge/CoreLocation-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[CoreLocation-url]: https://developer.apple.com/xcode/swiftui/
+[CoreLocation-url]: https://developer.apple.com/documentation/corelocation
 
 [React]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
-[React-url]: https://reactjs.org/
+[React-url]: https://react.dev/
 
 <!-- Tools -->
+
+[Xcode]: https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
+[Xcode-url]: https://developer.apple.com/xcode/
+
+[Tuist]: https://img.shields.io/badge/Tuist-6236FF?style=for-the-badge
+[Tuist-url]: https://tuist.dev/
+
+[XcodeGen]: https://img.shields.io/badge/XcodeGen-147EFB?style=for-the-badge&logo=xcode&logoColor=white
+[XcodeGen-url]: https://github.com/yonaskolb/XcodeGen
+
+[Fastlane]: https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white
+[Fastlane-url]: https://fastlane.tools/
 
 [Git]: https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 
 [GitHub]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/aking618
-
-[GitLab]: https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white
-[GitLab-url]: https://gitlab.com/
-
-[Bitbucket]: https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white
-[Bitbucket-url]: https://bitbucket.org/
-
-[AndroidStudio]: https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-[AndroidStudio-url]: https://developer.android.com/studio
-
-[Xcode]: https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
-[Xcode-url]: https://developer.apple.com/xcode/
-
-[Fastlane]: https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white
-[Fastlane-url]: https://fastlane.tools/
-
-[XcodeGen]: https://img.shields.io/badge/XcodeGen-147EFB?style=for-the-badge&logo=xcode&logoColor=white
-[XcodeGen-url]: https://github.com/yonaskolb/XcodeGen
